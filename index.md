@@ -5,7 +5,9 @@ title: Home
 
 # Prof. Domenico Amalfitano
 
-Associate Professor in Software Engineering
+Associate Professor in Software Engineering  
+Department of Electrical Engineering and Information Technologies (DIETI)  
+University of Naples Federico II
 
 My research focuses on software engineering methods and tools, with particular emphasis on software architecture, software testing, and the use of artificial intelligence to support software development processes.
 
@@ -19,8 +21,6 @@ My research focuses on software engineering methods and tools, with particular e
 - Large Language Models for Software Engineering
 - GUI Testing
 - Secondary Studies in Software Engineering
-
-## Links
 
 ## Links
 - [GitHub](https://github.com/domenicoamalfitano)
