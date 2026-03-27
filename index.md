@@ -36,6 +36,9 @@ My research also investigates software architectures, with attention to their qu
 ### Empirical Software Engineering
 - Secondary Studies in Software Engineering
 
+## Pages
+- [Publications](./publications)
+
 ## Links
 - [Google Scholar](https://scholar.google.com/citations?user=ReafO6YAAAAJ)
 - [ORCID](https://orcid.org/0000-0002-4761-4443)
