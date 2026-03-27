@@ -68,6 +68,10 @@ A complete and updated list of publications is available on my
   International Conference on the Foundations of Software Engineering, 2025  
   [DOI: https://doi.org/10.1145/3696630.3727240](https://doi.org/10.1145/3696630.3727240)
 
+- **Evaluating the Impact of Scaffolding and Visualizations for Mutation Testing Exercises in Software Engineering Education**  
+  International Conference on the Foundations of Software Engineering, 2025  
+  [DOI: https://doi.org/10.1145/3696630.3727240](https://doi.org/10.1145/3696630.3727240)
+
 - **A Web Crawling-Based Process and a Graph-Based Database for Mobile Vulnerability Analysis**
   International Conference on Web Engineering, 2025
   [DOI: https://doi.org/10.1007/978-3-031-97207-2_12](https://doi.org/10.1007/978-3-031-97207-2_12)
