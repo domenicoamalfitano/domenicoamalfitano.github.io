@@ -19,17 +19,19 @@ My research also investigates software architectures, with attention to their qu
 ### Software Engineering Foundations
 - Software Architecture
 - Software Analysis and Verification
-- Software Process Quality Improvement
+- Reverse Engineering and Program Comprehension
 - Model-Driven Engineering
+- Software Process Quality Improvement
 
 ### Software Testing and Quality Assurance
-- Software Testing
 - Test Automation
 - GUI Testing
-- Explorative Testing
+- Mutation Testing
+- Metamorphic Testing
+- Exploratory Testing
 
 ### AI for Software Engineering
-- Architecture Recovery using Large Language Models
+- Software Architecture Recovery using Large Language Models
 - LLM-based Support for Software Lifecycle Activities
 
 ### Empirical Software Engineering
