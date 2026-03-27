@@ -32,14 +32,6 @@ A complete and updated list of publications is available on my
   *Journal of Systems and Software*, 2026  
   DOI: https://doi.org/10.1016/j.jss.2025.112613  
 
-- **Automated Software Architecture Design Recovery from Source Code Using LLMs**  
-  Book chapter, 2026  
-  DOI: https://doi.org/10.1007/978-3-032-02138-0_5  
-
-- **Enhancing Software Maintainability Through LLM-Assisted Code Refactoring**  
-  Book chapter, 2026  
-  DOI: https://doi.org/10.1007/978-3-032-12089-2_10  
-
 ---
 
 ## 2025
@@ -58,15 +50,23 @@ A complete and updated list of publications is available on my
 
 - **A GUI-based Metamorphic Testing Technique for Detecting Authentication Vulnerabilities in Android Mobile Apps**  
   *Journal of Systems and Software*, 2025  
-  DOI: https://doi.org/10.1016/j.jss.2025.112364  
-
-- **Evaluating the Impact of Scaffolding and Visualizations for Mutation Testing Exercises in Software Engineering Education**  
-  Conference paper, 2025  
-  DOI: https://doi.org/10.1145/3696630.3727240  
+  DOI: https://doi.org/10.1016/j.jss.2025.112364    
 
 - **A systematic mapping study of semantic technologies in multi-omics data integration**  
   *Journal of Biomedical Informatics*, 2025  
-  DOI: https://doi.org/10.1016/j.jbi.2025.104809  
+  DOI: https://doi.org/10.1016/j.jbi.2025.104809
+
+- **Automated Software Architecture Design Recovery from Source Code Using LLMs**  
+  European COnference on Software Architecture, 2025  
+  DOI: https://doi.org/10.1007/978-3-032-02138-0_5
+
+- **Enhancing Software Maintainability Through LLM-Assisted Code Refactoring**  
+  International Conference on Product-Focused Software Process Improvement, 2025  
+  DOI: https://doi.org/10.1007/978-3-032-12089-2_10
+
+- **Evaluating the Impact of Scaffolding and Visualizations for Mutation Testing Exercises in Software Engineering Education**  
+  International Conference on the Foundations of Software Engineering, 2025  
+  DOI: https://doi.org/10.1145/3696630.3727240
 
 ---
 
