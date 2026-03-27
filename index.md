@@ -3,11 +3,11 @@ layout: default
 title: Home
 ---
 
-# Prof. Domenico Amalfitano
+**Associate Professor in Computer Engineering (IINF-05/A)**  
 
-Associate Professor in Computer Engineering  
-Department of Electrical Engineering and Information Technologies (DIETI)  
-University of Naples Federico II
+*Department of Electrical Engineering and Information Technologies (DIETI)*  
+<br>
+*University of Naples Federico II*
 
 My research activities cover several key areas in Software Engineering, including software analysis and verification, software testing and test automation, software architecture, and the use of artificial intelligence to support the software lifecycle.
 
