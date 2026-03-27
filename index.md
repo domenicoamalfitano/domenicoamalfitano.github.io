@@ -5,7 +5,7 @@ title: Home
 
 # Prof. Domenico Amalfitano
 
-Associate Professor in Software Engineering  
+Associate Professor in Computer Engineering  
 Department of Electrical Engineering and Information Technologies (DIETI)  
 University of Naples Federico II
 
