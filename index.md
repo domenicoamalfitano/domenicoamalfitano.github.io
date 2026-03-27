@@ -1,3 +1,19 @@
+---
+layout: default
+title: Home
+---
+
 # Prof. Domenico Amalfitano
 
-Website under construction.
+Welcome to my academic homepage.
+
+## Research Interests
+- Software Engineering
+- Software Testing
+- AI for Software Engineering
+- Large Language Models
+
+## Links
+- [GitHub](https://github.com/domenicoamalfitano)
+- [Google Scholar](#)
+- [ORCID](#)
