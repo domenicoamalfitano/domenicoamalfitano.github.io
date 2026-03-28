@@ -47,4 +47,6 @@ My research also investigates software architectures, with attention to their qu
 
 ## Contact
 
-For academic collaborations, teaching activities, and research-related inquiries, please get in touch via institutional channels.
+For academic collaborations, teaching activities, and research-related inquiries, please contact me at:
+
+**domenico.amalfitano [at] unina.it**
