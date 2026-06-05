@@ -11,7 +11,15 @@ A complete and updated list of publications is available on my
 ---
 
 ## 2026
+- **Are LLMs Ready for Anti-Pattern Detection in Microservice Architectures?**  
+  Accepted at the *IEEE International Conference on Software Maintenance and Evolution (ICSME)*, 2026. To be presented.
+  
+- **Inferring Equivalence Classes from Legacy Undocumented Embedded Binaries for ISO 26262-Compliant Testing**  
+  Accepted at the *International Conference on Evaluation and Assessment in Software Engineering (EASE)*, 2026. To be presented.
 
+- **CIAO — Code In Architecture Out: Automated Architecture Documentation with Large Language Models**
+  Accepted at the IEEE International Conference on Software Architecture (ICSA), 2026. To be presented.
+  
 - **A Research Roadmap for Augmenting Software Engineering Processes and Software Products with Generative AI**  
   *ACM Transactions on Software Engineering and Methodology*, 2026  
   [DOI: https://doi.org/10.1145/3788879](https://doi.org/10.1145/3788879)  
