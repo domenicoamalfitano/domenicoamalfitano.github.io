@@ -11,13 +11,13 @@ A complete and updated list of publications is available on my
 ---
 
 ## 2026
-- **From Detection to Refactoring: A Controlled Study of LLMs for Java Code Smells**
+- **From Detection to Refactoring: A Controlled Study of LLMs for Java Code Smells**<br>
   Accepted at the *International Conference on Product-Focused Software Process Improvement (PROFES)*, 2026.
   
-- **Beyond Trace Transcription: A Test-Aware LLM Workflow for Reconstructing UML Sequence Diagrams**
+- **Beyond Trace Transcription: A Test-Aware LLM Workflow for Reconstructing UML Sequence Diagrams**<br>
   Accepted at the *International Conference on Product-Focused Software Process Improvement (PROFES)*, 2026.
   
-- **Detecting Architectural Drift in Safety-Critical Firmware through Runtime Trace Analysis**
+- **Detecting Architectural Drift in Safety-Critical Firmware through Runtime Trace Analysis**<br>
   Presented at the Industry Track of *IEEE International Conference on Software Maintenance and Evolution (ICSME)*, 2026.
   
 - **Are LLMs Ready for Anti-Pattern Detection in Microservice Architectures?**  
