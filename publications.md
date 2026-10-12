@@ -11,14 +11,24 @@ A complete and updated list of publications is available on my
 ---
 
 ## 2026
+- **From Detection to Refactoring: A Controlled Study of LLMs for Java Code Smells**
+  Accepted at the *International Conference on Product-Focused Software Process Improvement (PROFES)*, 2026.
+  
+- **Beyond Trace Transcription: A Test-Aware LLM Workflow for Reconstructing UML Sequence Diagrams**
+  Accepted at the *International Conference on Product-Focused Software Process Improvement (PROFES)*, 2026.
+  
+- **Detecting Architectural Drift in Safety-Critical Firmware through Runtime Trace Analysis**
+  Presented at the Industry Track of *IEEE International Conference on Software Maintenance and Evolution (ICSME)*, 2026.
+  
 - **Are LLMs Ready for Anti-Pattern Detection in Microservice Architectures?**  
-  Accepted at the *IEEE International Conference on Software Maintenance and Evolution (ICSME)*, 2026. To be presented.
+  Presented at the *IEEE International Conference on Software Maintenance and Evolution (ICSME)*, 2026.
   
 - **Inferring Equivalence Classes from Legacy Undocumented Embedded Binaries for ISO 26262-Compliant Testing**  
-  Accepted at the *International Conference on Evaluation and Assessment in Software Engineering (EASE)*, 2026. To be presented.
+  Presented at the *International Conference on Evaluation and Assessment in Software Engineering (EASE)*, 2026. To be presented.
 
 - **CIAO — Code In Architecture Out: Automated Architecture Documentation with Large Language Models**
-  Accepted at the IEEE International Conference on Software Architecture (ICSA), 2026. To be presented.
+  IEEE International Conference on Software Architecture (ICSA), 2026.
+  [DOI: https://doi.org/10.1109/ICSA66085.2026.00026](https://doi.org/10.1109/ICSA66085.2026.00026)
   
 - **A Research Roadmap for Augmenting Software Engineering Processes and Software Products with Generative AI**  
   *ACM Transactions on Software Engineering and Methodology*, 2026  
