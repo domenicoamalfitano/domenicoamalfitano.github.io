@@ -24,7 +24,7 @@ A complete and updated list of publications is available on my
   Presented at the *IEEE International Conference on Software Maintenance and Evolution (ICSME)*, 2026.
   
 - **Inferring Equivalence Classes from Legacy Undocumented Embedded Binaries for ISO 26262-Compliant Testing**  
-  Presented at the *International Conference on Evaluation and Assessment in Software Engineering (EASE)*, 2026. To be presented.
+  Presented at the *International Conference on Evaluation and Assessment in Software Engineering (EASE)*, 2026.
 
 - **CIAO — Code In Architecture Out: Automated Architecture Documentation with Large Language Models**
   IEEE International Conference on Software Architecture (ICSA), 2026.
